@@ -1,2 +1,2 @@
 # saltstack
-saltstack demo file
+Saltstack template files
